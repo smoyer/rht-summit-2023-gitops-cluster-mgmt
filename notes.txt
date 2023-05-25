@@ -3,3 +3,5 @@ https://github.com/blues-man/vote-app-gitops/tree/main
 
 https://natalevinto.it/vote-app-guides/vote-app-guides/main/m2/intro.html?&USERID=user1&SUBDOMAIN=&APIURL=
 https://developers.redhat.com/learning/learn:openshift:foundations-openshift/resource/resources:openshift-412-playground
+
+https://evanshortiss.com/rht-summit-2023-lab-guide/summit-2023-gitops-workshop-guide/main/m1-overview/intro
